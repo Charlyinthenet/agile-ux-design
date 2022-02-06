@@ -129,9 +129,11 @@ Attendees: The Scrum Team, including shared resources and Subject Matter Experts
 Duration: 1–4 hours, depending on the Sprint length
 
 
-### Frequency: Once per Sprint, usually after the midpoint of the Sprint (day 5,6 or 7)
+### Frequency: 
+Once per Sprint, usually after the midpoint of the Sprint (day 5,6 or 7)
 
-### Objective: Inspect and Adapt the Product Backlog and PBIs to ensure targeted PBIs are ready for the next Sprint
+### Objective: 
+Inspect and Adapt the Product Backlog and PBIs to ensure targeted PBIs are ready for the next Sprint
 
 ### Topics covered:
 PO presents the ordered backlog and identifies PBIs they’d like in the next +⅔) Sprint

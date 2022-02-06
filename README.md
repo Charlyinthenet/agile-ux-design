@@ -1,7 +1,7 @@
 # agile-ux-design
 Agile experience design mvp
 
-##TOC
+## TOC
   
 [1. foundation.md](https://github.com/Charlyinthenet/agile-ux-design/blob/main/foundation.md)
 

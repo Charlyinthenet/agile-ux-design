@@ -7,7 +7,7 @@ Agile experience design mvp
 
 [2. scrum-team.md](https://github.com/Charlyinthenet/agile-baseline/agile-ux-design/blob/main/scrum-team.md)
 
-[3. scrum-master.md](https://github.com/Charlyinthenet/agile-baseline/agile-ux-design/blob/main/scrum-team.md)
+  [2.1. scrum-master.md](https://github.com/Charlyinthenet/agile-baseline/agile-ux-design/blob/main/scrum-team.md)
 
 [4. scrum-events.md](https://github.com/Charlyinthenet/agile-ux-design/blob/main/agile-baseline/scrum-events.md)
 

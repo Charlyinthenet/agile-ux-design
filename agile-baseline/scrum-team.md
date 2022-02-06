@@ -95,7 +95,7 @@ Ken Schwaber on POs. Is:
 * System thinker
 * Mini-CEO
 
-Is NOT a [Business Analyst] (https://www.scrum.org/resources/blog/who-professional-scrum-product-owner)
+Is NOT a [Business Analyst](https://www.scrum.org/resources/blog/who-professional-scrum-product-owner)
 
 
 ### Product Owner as a Product Development Facilitator

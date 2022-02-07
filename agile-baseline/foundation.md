@@ -7,6 +7,7 @@ Adaptability as a driver: more agility/adaptability => more value.
 Two common misunderstanding:
 * Agility = fast
 * Agility = cheap
+
 Fast and cheap are usual - and welcome - side effects, but not guaranteed!
 
 ### Adaptive VS incremental
@@ -31,8 +32,9 @@ Means that between iteration there’s a replan
 ### Empirical VS defined process
 
 > 
-> <cite>[...] a holistic or “rugby” approach—where a team tries to go the distance as a unit, passing the ball back and forth—may better serve today’s competitive requirements. [...] This new emphasis on speed and flexibility calls for a different approach for managing new product development. [...] a holistic or “rugby” approach—where a team tries to go the distance as a unit, passing the ball back and forth—may better serve today’s competitive requirements.</cite>
-> 🇬🇧📃[Takeuchi, Nonaka, “The New New Product Development Game”] https://hbr.org/1986/01/the-new-new-product-development-game
+> [...] a holistic or “rugby” approach—where a team tries to go the distance as a unit, passing the ball back and forth—may better serve today’s competitive requirements. [...] This new emphasis on speed and flexibility calls for a different approach for managing new product development. [...] a holistic or “rugby” approach—where a team tries to go the distance as a unit, passing the ball back and forth—may better serve today’s competitive requirements.</cite>
+
+🇬🇧📃[Takeuchi, Nonaka, “The New New Product Development Game”](https://hbr.org/1986/01/the-new-new-product-development-game)
 
 ### Agile == continuous improvement
 Use the 🇬🇧📃[Deming cycle](https://en.wikipedia.org/wiki/PDCA)
@@ -55,8 +57,9 @@ The manifesto is a formal statement of what agile software development is.
 
 ### Agile 4 Values and Tips added
 > 
-> <cite> We are uncovering better ways of developing software by doing it and helping others do it.
+> We are uncovering better ways of developing software by doing it and helping others do it.
 Through this work we have come to value:
+>
 > 1. Individuals and interactions over processes and tools </cite>
 
 Tips: better a short meeting prepared and facilitated by SM and PO with a visual and co-created board than a series of long emails with Excel attached
@@ -140,7 +143,7 @@ modo tale che gli osservatori condividano una comune comprensione di ciò̀ che 
 
 
 * Inspection
-The team frequently inspects the work they’re doing and assess whether the’re moving closer to the goa
+The team frequently inspects the work they’re doing and assess whether the’re moving closer to the goal
 
 * Adaptation
 When team recognize that work is not getting closer to the goal they adapt their practices and approach to change direction
